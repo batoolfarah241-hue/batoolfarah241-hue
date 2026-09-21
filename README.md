@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm FARAH BATOOL.
 
-<!--
-**batoolfarah241-hue/batoolfarah241-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor's in chemistry, aspiring nanomaterials researcher, based in Chakwal, Pakistan.
 
-Here are some ideas to get you started:
+I am learning Python and building small projects to strengthen my programming skills, with an interest in nano-materials,photocatalysis,python programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- Building a portfolio of small Python projects (see my pinned repositories)
+- Learning: Python language.
+
+## Skills
+Python (basics), MS Excel, Word, Zotero, EndNote, lab skills.
+
+## Projects
+- [Grade Analyzer](link) - statistics on exam scores
+- [Word Frequency Counter](link) - text analysis
+- [Study Hours Analysis](link) - correlation and regression on sample data
+
+## Connect
+LinkedIn: farah batool | Email: batoolfarah241@gmail.com
+
